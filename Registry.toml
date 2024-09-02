@@ -1,0 +1,8 @@
+name = "GraphComputingRegistry"
+uuid = "20c4ff04-694c-11ef-1aa3-dd0610dd06d4"
+repo = "https://github.com/GraphComputing-jl/registry.git"
+description = "Registry of unregistered packages in the organization"
+
+[packages]
+"62933717-1c9d-4a3f-b06f-7ab7f17ca32d" = { name = "GraphComputing", path = "GraphComputing"}
+"e5b388bf-6b77-4673-a798-c68c587e2b22" = { name = "QEDFeynman", path = "QEDFeynman"}
