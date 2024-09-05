@@ -1,4 +1,4 @@
 name = "QEDFeynman"
 uuid = "e5b388bf-6b77-4673-a798-c68c587e2b22"
-authors = ["AntonReinhard <anton.reinhard@proton.me>"]
+authors = ["Anton Reinhard <a.reinhard@hzdr.de>"]
 repo = "https://github.com/ComputableDAGs/QEDFeynman.jl.git"
