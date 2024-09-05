@@ -1,4 +1,4 @@
 name = "QEDFeynman"
 uuid = "e5b388bf-6b77-4673-a798-c68c587e2b22"
 authors = ["AntonReinhard <anton.reinhard@proton.me>"]
-repo = "https://github.com/GraphComputing-jl/QEDFeynman.jl.git"
+repo = "https://github.com/ComputableDAGs/QEDFeynman.jl.git"

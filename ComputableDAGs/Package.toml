@@ -1,0 +1,4 @@
+name = "ComputableDAGs"
+uuid = "62933717-1c9d-4a3f-b06f-7ab7f17ca32d"
+authors = ["Anton Reinhard <a.reinhard@hzdr.de>", "Uwe Hernandez Acosta <u.hernandez@hzdr.de>"]
+repo = "https://github.com/ComputableDAGs/ComputableDAGs.jl.git"
